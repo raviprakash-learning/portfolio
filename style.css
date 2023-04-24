@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+
+}
+.navbar{
+    /* position: fixed !important;
+    top: 0;
+    left: 0; */
+}
+.nav-link {
+    color:whitesmoke !important;
+}
+.navbar-brand{
+    color:whitesmoke !important;
+}
+.address-container{
+    background-color: #f1f1f1;
+}
